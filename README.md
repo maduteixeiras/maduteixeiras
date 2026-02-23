@@ -46,7 +46,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maduteixeiras/maduteixeiras/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<img src="https://raw.githubusercontent.com/maduteixeiras/maduteixeiras/output/snake.svg" alt="Snake animation" />
 
