@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas no SENAI Bahia (2º semestre), com interesse foco em desenvolvimento web.<br>Tenho interesse em criar soluções eficientes e bem estruturadas, priorizando organização de código e experiência do usuário.<br>Atualmente estudando HTML, CSS, JavaScript e versionamento com Git/GitHub.<br>Em constante evolução técnica e profissional.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas no SENAI Bahia (3º semestre), com interesse foco em desenvolvimento web.<br>Tenho interesse em criar soluções eficientes e bem estruturadas, priorizando organização de código e experiência do usuário.<br>Atualmente estudando Python Avançado e Java.<br>Em constante evolução técnica e profissional.</p>
 
 ###
 
